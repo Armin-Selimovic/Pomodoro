@@ -1,6 +1,6 @@
 # Pomodoro
 
-A simple Pomodoro timer built with **React + TypeScript (.tsx)**.
+A simple Pomodoro timer built with **React + TypeScript (.tsx)** still in progress.
 This project was my way of learning how to compile, run and use `.tsx` files. It was a challenge, but fun!
 
 ---
@@ -21,8 +21,8 @@ The app is written in **TypeScript/TSX** but runs in the browser as **plain Java
 
 TODO Future Features
 Planned improvements for the Pomodoro app:
-📊 Stats dashboard - track how many hours you’ve studied/worked
-✅ TODO list - manage tasks alongside the timer
-👤 Accounts - link stats and tasks to a user
-📅 History - see which days you used the Pomodoro and how much time you logged
-⏰ Timer notifications - follow Pomodoro cycles (3 short breaks -> 1 long break)
+* 📊 Stats dashboard - track how many hours you’ve studied/worked
+* ✅ TODO list - manage tasks alongside the timer
+* 👤 Accounts - link stats and tasks to a user
+* 📅 History - see which days you used the Pomodoro and how much time you logged
+* ⏰ Timer notifications - follow Pomodoro cycles (3 short breaks -> 1 long break)
