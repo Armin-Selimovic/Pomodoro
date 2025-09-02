@@ -5,7 +5,7 @@ This project was my way of learning how to compile, run and use `.tsx` files. It
 
 ---
 
-## 🚀 Running the Project
+## Running the Project
 
 The app is written in **TypeScript/TSX** but runs in the browser as **plain JavaScript**.
 
@@ -19,7 +19,7 @@ The app is written in **TypeScript/TSX** but runs in the browser as **plain Java
 
 ---
 
-TODO Future Features
+## TODO Future Features
 Planned improvements for the Pomodoro app:
 * 📊 Stats dashboard - track how many hours you’ve studied/worked
 * ✅ TODO list - manage tasks alongside the timer
