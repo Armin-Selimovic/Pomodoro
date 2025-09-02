@@ -9,12 +9,12 @@ This project was my way of learning how to compile, run and use `.tsx` files. It
 
 The app is written in **TypeScript/TSX** but runs in the browser as **plain JavaScript**.
 
-1. **Compile .tsx to .js in watch mode** 
+1. **Compile .tsx to .js in watch mode**   
 	`npx esbuild src/main.tsx --bundle --outfile=main.js --watch`
-2. Serve the project
+2. **Serve the project**
 	* Option A: Use VS Code’s Live Server extension → just open index.html.
 	* Option B (optional): Use Node’s live-server:
-		* `npx live-server dist` 
+		* `npx live-server dist`   
 	As long as main.js is updated, either approach works.
 
 ---
