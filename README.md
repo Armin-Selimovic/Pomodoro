@@ -1,7 +1,7 @@
 # Pomodoro
 
 A simple Pomodoro timer built with **React + TypeScript (.tsx)** still in progress.
-This project was my way of learning how to compile, run and use `.tsx` files. It was a challenge, but fun!
+This project was my way of learning how to compile, run and use `.tsx` files.
 
 ---
 
